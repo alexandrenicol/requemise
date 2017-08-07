@@ -4,5 +4,5 @@ Requemise - Promise wrapper for the Request package
 ## Install
 `npm install requemise --save`
 
-## Requirementsuuu
+## Notes
 This package will automatically install Request
