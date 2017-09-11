@@ -8,7 +8,7 @@ Requemise - Promise wrapper for the Request package
 This package will automatically install Request
 
 ## How to use
-`
+```javascript
 // in your js file
 const Requemise = require('requemise');
 
@@ -32,4 +32,4 @@ Requemise.req(options)
 .catch((rejection) => {
   // Do something with reject's value, rejection.error and rejection.response
 });
-`
+```
