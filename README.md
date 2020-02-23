@@ -1,3 +1,9 @@
+# Deprecated
+
+Following [request's](https://github.com/request/request) deprecation, Requemise is now also deprecated.
+
+We recommend [note-fetch](https://github.com/node-fetch/node-fetch) as an alternative to Request+Requemise.
+
 # Requemise
 Requemise - Promise wrapper for the Request package
 
